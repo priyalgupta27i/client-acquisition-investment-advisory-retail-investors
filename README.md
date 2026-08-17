@@ -132,26 +132,4 @@ This indicated that **lead quality and pre-qualification are important factors i
 - Sales Funnel Analysis
 - Investment Advisory
 
----
 
-## 📁 Project Structure
-
-```text
-client-acquisition-investment-advisory-retail-investors/
-│
-├── README.md
-│
-├── Project_Report.pdf
-│
-├── Analysis/
-│   ├── Client_Acquisition_Funnel.xlsx
-│   ├── Weekly_Activity_Analysis.xlsx
-│   └── Channel_Comparison.xlsx
-│
-├── Visualizations/
-│   ├── Acquisition_Funnel.png
-│   ├── Weekly_Trend.png
-│   └── Field_vs_ColdCalling.png
-│
-└── Documentation/
-    └── Methodology.pdf
